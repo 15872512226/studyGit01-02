@@ -11,8 +11,8 @@ xxxxxxxx
     #--会出现一个隐藏的.git文件夹，不要动它
 
  第二步 文件夹里面创建文件再看敲代码****
-    git add .
-    git commit -m"描述提交的代码"
+    git add .      //存放到暂存区域
+    git commit -m"描述提交的代码"   //提交
 
  ***(第一次提交会出现要设置邮箱和用户名)  建议与GitHub一致
     
@@ -20,7 +20,7 @@ xxxxxxxx
     git log 查看提交日志
 
  第三部：推送远程仓库
-    git push
+    git push   //推送
 
 
  git版本穿梭(回滚)：
