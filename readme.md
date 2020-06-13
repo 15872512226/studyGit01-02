@@ -52,6 +52,32 @@ xxxxxxxx
     git  config  --global   --unset  user.name
 
 
+   ***************
+
+   分支学习：
+
+   查看分支：
+
+   git branch
+
+   新建分支：
+
+   git branch 分支名
+
+   切换分支：
+
+   git checkout 分支名
+
+   合并分支：
+
+   git merge 分支名
+      回到要合并的分支哪里
+
+   删除分支：
+
+   git branch -d 分支名
+   
+
 
 
 
